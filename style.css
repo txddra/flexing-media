@@ -18,7 +18,9 @@ justify-content: center;
   justify-content: space-around;
 }
 
- @media(max-width:600px){
+
+
+ /* @media(max-width:600px){
 .container{
   flex-direction: column;
 }
@@ -33,7 +35,9 @@ justify-content: center;
 .secondTen{
 display: flex;
 flex-direction: column;*/
- } 
+ /* } */
+
+
 
 
 @media (max-width: 600px) {
