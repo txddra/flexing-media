@@ -18,16 +18,23 @@ justify-content: center;
   justify-content: space-around;
 }
 
- /* @media(max-width:600px){ */
-/* .firstTen{
+ @media(max-width:600px){
+.container{
+  flex-direction: column;
+}
+
+.ten{
+  flex-direction: column;
+}
+  /* .firstTen{
   display: flex;
   flex-direction: column;
 }
 .secondTen{
 display: flex;
-flex-direction: column;
- } */
-/* 
+flex-direction: column;*/
+ } 
+
 
 @media (max-width: 600px) {
   .app {
